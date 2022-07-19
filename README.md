@@ -4,6 +4,7 @@
 
 <br/>
 
+<!--
 <a href="#">
   <img align="center" width="49%" src="./repositories.svg" />
 </a>
@@ -11,6 +12,7 @@
 <a href="#">
   <img align="center" width="49%" src="./activity-community.svg" />
 </a>
+-->
 
 <a href="#">
   <img align="center" width="49%" src="./iso-calendar.svg" />
