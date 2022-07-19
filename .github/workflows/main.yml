@@ -51,11 +51,10 @@ jobs:
           config_timezone: Asia/Kolkata
 
           base: ""
-          repositories_affiliations: collaborator
           filename: habits.svg
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
+          plugin_habits_charts_type: classic
           plugin_habits_facts: yes
 
   followup-languages:
@@ -71,7 +70,6 @@ jobs:
           config_timezone: Asia/Kolkata
 
           base: ""
-          repositories_affiliations: collaborator
           filename: followup-languages.svg
           plugin_followup: yes
           plugin_followup_sections: user
