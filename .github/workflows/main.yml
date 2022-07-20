@@ -78,7 +78,8 @@ jobs:
           plugin_languages_ignored: html, css
           plugin_languages_skipped: >-
             viren-nadkarni/bvd-snort, viren-nadkarni/masters-thesis, viren-nadkarni/cth-vehsys,
-            viren-nadkarni/cpython-internals, viren-nadkarni/two-degrees, viren-nadkarni/watson
+            viren-nadkarni/cpython-internals, viren-nadkarni/two-degrees, viren-nadkarni/watson,
+            viren-nadkarni/pintos, viren-nadkarni/dotfiles
 
 #  repositories:
 #    runs-on: ubuntu-latest
