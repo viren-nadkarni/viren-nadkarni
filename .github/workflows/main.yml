@@ -50,7 +50,7 @@ jobs:
           template: classic
           config_timezone: Asia/Kolkata
 
-          repositories_affiliations: owner, collaborator, organization_member
+          repositories_affiliations: owner, collaborator
           repositories_skipped: >-
             viren-nadkarni/bvd-snort, viren-nadkarni/masters-thesis, viren-nadkarni/cth-vehsys,
             viren-nadkarni/cpython-internals, viren-nadkarni/two-degrees, viren-nadkarni/watson,
@@ -76,7 +76,7 @@ jobs:
           template: classic
           config_timezone: Asia/Kolkata
 
-          repositories_affiliations: owner, collaborator, organization_member
+          repositories_affiliations: owner, collaborator
           repositories_skipped: >-
             viren-nadkarni/bvd-snort, viren-nadkarni/masters-thesis, viren-nadkarni/cth-vehsys,
             viren-nadkarni/cpython-internals, viren-nadkarni/two-degrees, viren-nadkarni/watson,
@@ -132,7 +132,7 @@ jobs:
           template: classic
           config_timezone: Asia/Kolkata
 
-          repositories_affiliations: owner, collaborator, organization_member
+          repositories_affiliations: owner, collaborator
           repositories_skipped: >-
             viren-nadkarni/bvd-snort, viren-nadkarni/masters-thesis, viren-nadkarni/cth-vehsys,
             viren-nadkarni/cpython-internals, viren-nadkarni/two-degrees, viren-nadkarni/watson,
