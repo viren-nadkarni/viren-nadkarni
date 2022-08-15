@@ -50,13 +50,14 @@ jobs:
           template: classic
           config_timezone: Asia/Kolkata
 
-          repositories_affiliations: owner, collaborator
+          base: ""
+          repositories_affiliations: ""
           repositories_skipped: >-
             viren-nadkarni/bvd-snort, viren-nadkarni/masters-thesis, viren-nadkarni/cth-vehsys,
             viren-nadkarni/cpython-internals, viren-nadkarni/two-degrees, viren-nadkarni/watson,
-            viren-nadkarni/pintos, viren-nadkarni/dotfiles, viren-nadkarni/fyp, viren-nadkarni/codu
+            viren-nadkarni/pintos, viren-nadkarni/dotfiles, viren-nadkarni/fyp, viren-nadkarni/codu,
+            levfinder/bernard, Vilddjur/gbgStartupHack2019
 
-          base: ""
           filename: habits.svg
           plugin_habits: yes
           plugin_habits_charts: yes
@@ -76,13 +77,14 @@ jobs:
           template: classic
           config_timezone: Asia/Kolkata
 
-          repositories_affiliations: owner, collaborator
+          base: ""
+          repositories_affiliations: ""
           repositories_skipped: >-
             viren-nadkarni/bvd-snort, viren-nadkarni/masters-thesis, viren-nadkarni/cth-vehsys,
             viren-nadkarni/cpython-internals, viren-nadkarni/two-degrees, viren-nadkarni/watson,
-            viren-nadkarni/pintos, viren-nadkarni/dotfiles, viren-nadkarni/fyp, viren-nadkarni/codu
+            viren-nadkarni/pintos, viren-nadkarni/dotfiles, viren-nadkarni/fyp, viren-nadkarni/codu,
+            levfinder/bernard, Vilddjur/gbgStartupHack2019
 
-          base: ""
           filename: followup-languages.svg
           plugin_followup: yes
           plugin_followup_sections: user
@@ -132,13 +134,14 @@ jobs:
           template: classic
           config_timezone: Asia/Kolkata
 
-          repositories_affiliations: owner, collaborator
+          base: ""
+          repositories_affiliations: ""
           repositories_skipped: >-
             viren-nadkarni/bvd-snort, viren-nadkarni/masters-thesis, viren-nadkarni/cth-vehsys,
             viren-nadkarni/cpython-internals, viren-nadkarni/two-degrees, viren-nadkarni/watson,
-            viren-nadkarni/pintos, viren-nadkarni/dotfiles, viren-nadkarni/fyp, viren-nadkarni/codu
+            viren-nadkarni/pintos, viren-nadkarni/dotfiles, viren-nadkarni/fyp, viren-nadkarni/codu,
+            levfinder/bernard, Vilddjur/gbgStartupHack2019
 
-          base: ""
           filename: lines.svg
           plugin_lines: yes
           plugin_lines_sections: base, repositories
