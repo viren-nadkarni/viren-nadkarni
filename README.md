@@ -19,7 +19,7 @@
 </a>
 
 <a href="#">
-    <img align="center" width="49%" src="./followup-languages.svg" />
+    <img align="center" width="48%" src="./lines.svg" />
 </a>
 
 <a href="#">
@@ -27,5 +27,5 @@
 </a>
 
 <a href="#">
-    <img align="center" width="49%" src="./achievements.svg" />
+    <img align="center" width="49%" src="./followup-languages.svg" />
 </a>

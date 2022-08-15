@@ -128,7 +128,11 @@ jobs:
           filename: lines.svg
           plugin_lines: yes
           plugin_lines_sections: base, repositories
-          plugin_lines_repositories_limit: 2
+          plugin_lines_repositories_limit: 5
+          plugin_lines_skipped: >-
+            viren-nadkarni/bvd-snort, viren-nadkarni/masters-thesis, viren-nadkarni/cth-vehsys,
+            viren-nadkarni/cpython-internals, viren-nadkarni/two-degrees, viren-nadkarni/watson,
+            viren-nadkarni/pintos, viren-nadkarni/dotfiles
 
 #  achievements:
 #    runs-on: ubuntu-latest
