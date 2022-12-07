@@ -1,4 +1,7 @@
-<img align="center" width="49%" src="./header.svg" />
-<br/>
-<img align="center" width="49%" src="./iso-calendar.svg" />
-<img align="center" width="49%" src="./habits.svg" />
+<a href="#">
+  <img align="center" width="49%" src="./header-iso-calendar.svg" />
+</a>
+
+<a href="#">
+  <img align="center" width="49%" src="./habits.svg" />
+</a>
